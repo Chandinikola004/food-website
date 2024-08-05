@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, white 0%, #14b3ad9d 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.div1{
+    width:100% ;
+    height:600px ;
+
+}
+.div2{
+    background-image: url('/chef.jpg');
+    height:60%;
+    width:85%;
+    margin-top: 30px;
+    margin-left: 7%;
+    
+}
+.sbarandimgdiv{
+    width:500px;
+    height:100px;
+    float: left;
+    margin-top:30px ;
+}
+
+.image
+{
+    width:150px;
+    height:130px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 0px;
+
+}
+.sbtn{
+    width:40% ;height:65% ;float: left;margin-top: 20px;
+}
+.search{
+    width: 90px;
+    height: 60px;
+    border-radius: 20px;
+    border-color:transparent;
+    background-color: red;
+    color:white;
+    margin-left: 650px;
+    margin-top:70px;
+    text-align: center;
+    font-size: 15px;font-family:'Courier New', Courier, monospace;
+
+}
+.searchbar{
+    margin-left: 450px;
+    height: 45px;
+    width: 380px;
+    border-radius: 20px;
+    background-color: transparent;
+    border-color: rgba(255, 0, 0, 0.906);
+    
+}
+.loginimgdiv{
+    background-color: rgba(27, 140, 136, 0.55);
+    width: 85%;
+    height: 90%;
+    margin-left: 90px;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 7%;
+}
+.image2{
+    margin-top: 20px;
+    margin-left: 40px;
+    width:600px;
+    display: flex;
+    width: 35%;
+    border-radius: 50%;
+    height: 88%;
+
+}
+.login{
+    background-color: rgba(22, 118, 110, 0.486);
+    width: 54%;
+    margin-left: 6%;
+    margin-top: 20px;
+    height: 88%;
+    border-radius: 30px;
+}
+.heading{
+    text-align: center;
+    background-color:maroon;
+    color: white;
+    height: 48px;
+    border-radius: 20px;
+    margin-top: 0px;
+    font-size: 30px;
+    font-style:inherit;
+
+}
+.uname{
+margin-left: 180px;
+font-size: 25px;
+}
+.uinp{
+    margin-left: 180px;
+    height: 45px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+.lcbtn1{
+    margin-top: 20px;margin-left: 180px;height: 45px;width: 170px;font-size: 25px;font-family:'Courier New', Courier, monospace;
+    background-color: darkred;border-radius: 10px;color: white;border-color: transparent;
+}
+.lcbtn2{
+    margin-top: 20px;margin-left: 10px;height: 45px;width: 170px;
+    font-size: 25px;font-family:'Courier New', Courier, monospace;
+    background-color: darkred;border-radius: 10px;color: white;border-color: transparent;
+}
+.newregbtn{
+    margin-top: 20px;margin-left: 180px;height: 45px;width: 360px;
+    background-color: darkred;border-radius: 10px;color: white;border-color: transparent;
+    font-size: 25px;font-family:'Courier New', Courier, monospace;
+
+}
